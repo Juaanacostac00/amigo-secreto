@@ -15,6 +15,6 @@ Tal y como dice la funcion, entre los amigos agregados elije uno al azar y debaj
 ## Cómo usarlo
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/amigo-secreto.git
+   git clone https://github.com/Juaanacostac00/amigo-secreto.git
 2. Abrir el archivo index.html en el navegador.
 3. Escribir los nombres deseados, agregarlos y tocar Sortear amigo.
